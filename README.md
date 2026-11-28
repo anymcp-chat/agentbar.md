@@ -73,7 +73,7 @@ fire("hello");
 ## Adopters
 
 - [Agent Keyboard](https://github.com/vibhasjain/agent-keyboard): all four.
-- [anymcp](https://anymcp.chat): all four (in progress).
+- [anymcp](https://anymcp.chat): all four.
 
 Open an issue or a pull request to propose a change or to add your bar.
 
